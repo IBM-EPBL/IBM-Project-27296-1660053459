@@ -1,0 +1,3 @@
+2022-11-19 11:52:21,001   ibmiotf.device.Client      INFO    Connected successfully: d:sgoqkq:Gas_Leakage_Detection_Device:Gas_Leakage_Detection_Device1
+2022-11-19 11:51:22,831   ibmiotf.device.Client      INFO    Connected successfully: d:sgoqkq:Gas_Leakage_Detection_Device:Gas_Leakage_Detection_Device1
+2022-11-19 11:54:37,403   ibmiotf.device.Client      INFO    Connected successfully: d:sgoqkq:Gas_Leakage_Detection_Device:Gas_Leakage_Detection_Device1
